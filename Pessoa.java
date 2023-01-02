@@ -7,5 +7,6 @@ public Pessoa(){
 public Pessoa(String n, double i){
     this.nome =n;
     this.idade = i;
+    //testando aqui tmb hehe
 }
 }
